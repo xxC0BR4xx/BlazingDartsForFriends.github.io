@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-8MZq+2kBJckNY6aVGfsyv4+RCPUqLzl1YCFbH8Nh72c=",
+      "hash": "sha256-7xUTjg6kScFHPyJgO9Eh5IUewPTBGAJIThSTZHyQ8oM=",
       "url": "game.html"
     },
     {
@@ -513,5 +513,5 @@
       "url": "_content\/TG.Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "DUpXJfui"
+  "version": "afM1XaTz"
 };

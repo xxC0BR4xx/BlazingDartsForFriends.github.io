@@ -33,7 +33,7 @@
       "url": "images\/statistics.svg"
     },
     {
-      "hash": "sha256-4rKchRsmoctJg8v\/WP7BfoOQ5iavivndW+PxRJYmwDE=",
+      "hash": "sha256-aTtQV\/\/myHy52aPfvOZZ9h9kaiu3F1oMhoUaW\/zdR8Q=",
       "url": "index.html"
     },
     {
@@ -513,5 +513,5 @@
       "url": "_content\/TG.Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "gcSOPiaO"
+  "version": "Adsg3RK3"
 };

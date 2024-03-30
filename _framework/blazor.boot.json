@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazingDartsForFriends",
   "resources": {
-    "hash": "sha256-o8K6tAfNZC16zzX9LrzcDxj3rRAZNA1YrU65laQAEOQ=",
+    "hash": "sha256-nAOC8oj2EctjEOsQFAblNYUi4+rwb+h5fXfiKHNAAus=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.i6curp9kak.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BlazingDartsForFriends.wasm": "sha256-QUnx5BO2V+9e+DBvmHaGL11SOQIHhoaYJY/MKDWNz24=",
+      "BlazingDartsForFriends.wasm": "sha256-A8Rqr4/HmIAS3a6d5xgJrEw4ErDjAbNaM/2iQkdV4bM=",
       "Blazor.IndexedDB.Framework.wasm": "sha256-k43DSBkshmxbE+kfqu4JHHUjN3dc32giqcH+pul3Q1E=",
       "Blazorise.Bootstrap5.wasm": "sha256-8PWimzHkuroRcFZ7HTOFxgSXqATYxXH2bvFYZl5cSzc=",
       "Blazorise.Icons.FontAwesome.wasm": "sha256-GSN7S3KTGJTw6PPjk5+Nc8bVPgUsc5tQm/n/xieQUUs=",
